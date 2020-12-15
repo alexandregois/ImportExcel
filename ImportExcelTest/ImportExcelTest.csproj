@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+    <ReleaseVersion>0.3</ReleaseVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Mock\NewFolder\**" />
+    <EmbeddedResource Remove="Mock\NewFolder\**" />
+    <None Remove="Mock\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ImportExcel.Infra.Data\ImportExcel.Infra.Data.csproj" />
+    <ProjectReference Include="..\ImportExcel\ImportExcel.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mock\ModeloTandemUniversal\" />
+  </ItemGroup>
+
+</Project>

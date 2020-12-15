@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcelTest\\ImportExcelTest.csproj": {}
+  },
+  "projects": {
+    "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Domain\\ImportExcel.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Domain\\ImportExcel.Domain.csproj",
+        "projectName": "ImportExcel.Domain",
+        "projectPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Domain\\ImportExcel.Domain.csproj",
+        "packagesPath": "C:\\Users\\alexandregois\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexandregois\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Infra.Data\\ImportExcel.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Infra.Data\\ImportExcel.Infra.Data.csproj",
+        "projectName": "ImportExcel.Infra.Data",
+        "projectPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Infra.Data\\ImportExcel.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\alexandregois\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexandregois\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Domain\\ImportExcel.Domain.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Domain\\ImportExcel.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcelTest\\ImportExcelTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcelTest\\ImportExcelTest.csproj",
+        "projectName": "ImportExcelTest",
+        "projectPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcelTest\\ImportExcelTest.csproj",
+        "packagesPath": "C:\\Users\\alexandregois\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcelTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexandregois\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Infra.Data\\ImportExcel.Infra.Data.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Infra.Data\\ImportExcel.Infra.Data.csproj"
+              },
+              "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel\\ImportExcel.Service.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel\\ImportExcel.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel\\ImportExcel.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel\\ImportExcel.Service.csproj",
+        "projectName": "ImportExcel.Service",
+        "projectPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel\\ImportExcel.Service.csproj",
+        "packagesPath": "C:\\Users\\alexandregois\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexandregois\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Domain\\ImportExcel.Domain.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Domain\\ImportExcel.Domain.csproj"
+              },
+              "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Infra.Data\\ImportExcel.Infra.Data.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\ProjetosWINSIZING\\GERDAU_OFD_SERVICES\\ImportExcel\\ImportExcel.Infra.Data\\ImportExcel.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "DotNetCore.NPOI": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

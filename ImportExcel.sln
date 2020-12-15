@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportExcel.Service", "ImportExcel\ImportExcel.Service.csproj", "{36E6AF0C-45C2-4B1A-89BF-D4F219D28CA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportExcelTest", "ImportExcelTest\ImportExcelTest.csproj", "{1084C2EF-43AC-4BBF-BDB3-13F80D164929}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportExcel.Domain", "ImportExcel.Domain\ImportExcel.Domain.csproj", "{C9F27CB2-29EB-4C90-B208-9A481F16A0CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportExcel.Infra.Data", "ImportExcel.Infra.Data\ImportExcel.Infra.Data.csproj", "{EAA73C9E-FAEB-4F44-8E4D-32AD8581C839}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportExcel.ConsoleTest", "ImportExcel.ConsoleTest\ImportExcel.ConsoleTest.csproj", "{E2B8183D-0A57-4C7C-A814-82EAEDA25814}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportExcelFileWatch", "ImportExcelFileWatch\ImportExcelFileWatch.csproj", "{86EEA37B-7FD8-42CC-AB6A-FD75035F29D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36E6AF0C-45C2-4B1A-89BF-D4F219D28CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E6AF0C-45C2-4B1A-89BF-D4F219D28CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E6AF0C-45C2-4B1A-89BF-D4F219D28CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E6AF0C-45C2-4B1A-89BF-D4F219D28CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1084C2EF-43AC-4BBF-BDB3-13F80D164929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1084C2EF-43AC-4BBF-BDB3-13F80D164929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1084C2EF-43AC-4BBF-BDB3-13F80D164929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1084C2EF-43AC-4BBF-BDB3-13F80D164929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F27CB2-29EB-4C90-B208-9A481F16A0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F27CB2-29EB-4C90-B208-9A481F16A0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F27CB2-29EB-4C90-B208-9A481F16A0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F27CB2-29EB-4C90-B208-9A481F16A0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA73C9E-FAEB-4F44-8E4D-32AD8581C839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA73C9E-FAEB-4F44-8E4D-32AD8581C839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA73C9E-FAEB-4F44-8E4D-32AD8581C839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA73C9E-FAEB-4F44-8E4D-32AD8581C839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B8183D-0A57-4C7C-A814-82EAEDA25814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B8183D-0A57-4C7C-A814-82EAEDA25814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B8183D-0A57-4C7C-A814-82EAEDA25814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B8183D-0A57-4C7C-A814-82EAEDA25814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EEA37B-7FD8-42CC-AB6A-FD75035F29D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EEA37B-7FD8-42CC-AB6A-FD75035F29D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EEA37B-7FD8-42CC-AB6A-FD75035F29D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EEA37B-7FD8-42CC-AB6A-FD75035F29D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB827F57-F998-4A27-9EEE-F3E99D7243CA}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		version = 0.3
+	EndGlobalSection
+EndGlobal

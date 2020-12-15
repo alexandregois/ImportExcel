@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Domain\bin\Debug\netcoreapp2.1\ImportExcel.Domain.deps.json
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Domain\bin\Debug\netcoreapp2.1\ImportExcel.Domain.dll
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Domain\bin\Debug\netcoreapp2.1\ImportExcel.Domain.pdb
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Domain\obj\Debug\netcoreapp2.1\ImportExcel.Domain.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Domain\obj\Debug\netcoreapp2.1\ImportExcel.Domain.AssemblyInfo.cs
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Domain\obj\Debug\netcoreapp2.1\ImportExcel.Domain.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Domain\obj\Debug\netcoreapp2.1\ImportExcel.Domain.dll
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Domain\obj\Debug\netcoreapp2.1\ImportExcel.Domain.pdb

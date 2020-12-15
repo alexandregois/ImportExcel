@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\bin\Debug\netcoreapp2.1\ImportExcel.Infra.Data.deps.json
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\bin\Debug\netcoreapp2.1\ImportExcel.Infra.Data.dll
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\bin\Debug\netcoreapp2.1\ImportExcel.Infra.Data.pdb
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\bin\Debug\netcoreapp2.1\ImportExcel.Domain.dll
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\bin\Debug\netcoreapp2.1\ImportExcel.Domain.pdb
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\obj\Debug\netcoreapp2.1\ImportExcel.Infra.Data.csprojAssemblyReference.cache
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\obj\Debug\netcoreapp2.1\ImportExcel.Infra.Data.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\obj\Debug\netcoreapp2.1\ImportExcel.Infra.Data.AssemblyInfo.cs
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\obj\Debug\netcoreapp2.1\ImportExcel.Infra.Data.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\obj\Debug\netcoreapp2.1\ImportExcel.Infra.Data.csproj.CopyComplete
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\obj\Debug\netcoreapp2.1\ImportExcel.Infra.Data.dll
+\\Mac\Home\Documents\ProjetosWINSIZING\GERDAU_OFD_SERVICES\ImportExcel\ImportExcel.Infra.Data\obj\Debug\netcoreapp2.1\ImportExcel.Infra.Data.pdb
